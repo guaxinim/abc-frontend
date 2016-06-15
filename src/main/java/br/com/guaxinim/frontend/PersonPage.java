@@ -1,4 +1,4 @@
-package at.jsflive.jsf22.example01;
+package br.com.guaxinim.frontend;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ManagedProperty;

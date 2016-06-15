@@ -1,4 +1,4 @@
-package at.jsflive.jsf22.example01;
+package br.com.guaxinim.frontend;
 
 import javax.annotation.PostConstruct;
 import javax.faces.bean.ApplicationScoped;

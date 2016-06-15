@@ -3,11 +3,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>at.jsflive</groupId>
-    <artifactId>jsf22-html5</artifactId>
+    <groupId>br.com.guaxinim</groupId>
+    <artifactId>abc-frontend</artifactId>
     <packaging>war</packaging>
     <version>1.0.0</version>
-    <name>JSFlive - JSF 2.2 HTML5 support</name>
+    <name>ABC Frontend</name>
 
     <profiles>
         <profile>

@@ -1,4 +1,4 @@
-package at.jsflive.jsf22.example01;
+package br.com.guaxinim.frontend;
 
 import java.io.Serializable;
 import java.util.Date;
