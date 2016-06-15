@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="jsf22-html5:war exploded">
-    <output-path>$PROJECT_DIR$/target/jsf22-html5</output-path>
+    <output-path>$PROJECT_DIR$/target/abc-frontend</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -13,7 +13,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/jsf22-html5/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/abc-frontend/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="jsf22-html5/web/Web" />
     </root>
