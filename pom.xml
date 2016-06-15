@@ -83,7 +83,7 @@
     </dependencies>
 
     <build>
-        <finalName>jsf22-html5</finalName>
+        <finalName>abc-frontend</finalName>
         <defaultGoal>install</defaultGoal>
         <plugins>
             <plugin>
